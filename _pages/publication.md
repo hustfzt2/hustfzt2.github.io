@@ -11,13 +11,10 @@ toc: true
 （详情请见：[这里](https://scholar.google.com/citations?hl=zh-CN&user=rdyz9EMAAAAJ&view_op=list_works&sortby=pubdate)）
 
 ### 2023
-[1]	Gao X, Zhang X, Yang J, et al. Dynamic modeling and analysis on lateral vibration of ball screw feed system [J]. The International Journal of Advanced Manufacturing Technology, 2023, 124(11-12): 4211-4229.<br>
-[2]	Lei X, Fu Z, Chen X, et al. Homography matrix based trajectory planning method for robot uncalibrated visual servoing [J]. arXiv preprint arXiv:2303.09037, 2023.<br>
-[3]	Lin Y, Wang T, Spyrakos-Papastavridis E, et al. Minimum Friction Coefficient-based Precision Manipulation Workspace Analysis of the Three-fingered Metamorphic Hand [J]. Journal of Mechanisms and Robotics, 2023: 1-28.<br>
-[4]	X. Lei, Z. Fu*, E. Spyrakos-Papastavridis, J. Pan, M. Li and X. Chen, IHUVS: Infinite Homography-Based Uncalibrated Methodology for Robotic Visual Servoing, IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2023.3279519. <br>
-[5] J. Pan, Z. Fu*, H. Yue, X. Lei, M. Li and X. Chen, Toward Simultaneous Coordinate Calibrations of AX=YB Problem by the LMI-SDP Optimization, IEEE Transactions on Automation Science and Engineering, 2022, doi: 10.1109/TASE.2022.3207771.<br>
-[6]	付中涛，饶书航，潘嘉滨，李淼，黄涛，陈绪兵；基于LMI-SDP优化的机器人手眼关系精确求解，机械工程学报，2023, 59 (3)，1-6.<br>
-[7]	Z Fu, X Lei, X Chen, et al., Homography matrix based trajectory planning method for robot uncalibrated visual servoing, The 2023 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2023), Datong, China (Best Paper Award)<br>
+Lei X, Fu Z, Chen X, et al. Homography matrix based trajectory planning method for robot uncalibrated visual servoing [J]. arXiv preprint arXiv:2303.09037, 2023.<br>
+Lin Y, Wang T, Spyrakos-Papastavridis E, et al. Minimum Friction Coefficient-based Precision Manipulation Workspace Analysis of the Three-fingered Metamorphic Hand [J]. Journal of Mechanisms and Robotics, 2023: 1-28.<br>
+付中涛，饶书航，潘嘉滨，李淼，黄涛，陈绪兵；基于LMI-SDP优化的机器人手眼关系精确求解，机械工程学报，2023, 59 (3)，1-6.<br>
+Z Fu, X Lei, X Chen, et al., Homography matrix based trajectory planning method for robot uncalibrated visual servoing, The 2023 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2023), Datong, China (Best Paper Award)<br>
 
 ### 2022
 [1]	E Spyrakos-Papastavridis; Z Fu; J S Dai; Power-Shaping Model-Based Control With Feedback Deactivation for Flexible-Joint Robot Interaction, IEEE Robotics and Automation Letters, 2022, 7(2): 4566-4573.<br>
