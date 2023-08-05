@@ -63,7 +63,7 @@ toc: true
                 <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：824342197@qq.com<br>
                     个人主页：<br>
-                    研究方向：机器学习、机器人技能学习<br>
+                    研究方向：机器学习、机器人抓取<br>
                     兴趣爱好：羽毛球<br>
                 </p>
             </div>
