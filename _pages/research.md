@@ -111,3 +111,24 @@ toc: true
      </td>
      </tr>
 </table>
+
+
+### （5）智能垃圾分拣机器人
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;智能垃圾分拣机器人系统是一种用于垃圾分拣的新型机器人，搭载有ROS操控系统（脑）的高性能智能工作站，可根据用户需求配置深度相机（眼）；拥有多自由度的机械臂，机械臂末端可以集成各种末端执行器（手），这样就形成“手眼脑”一体化智能分拣机器人系统，通过YOLO V3网络对可回收垃圾、有害垃圾、特色厨余垃圾以及其他垃圾进行识别，然后机器人实现垃圾的分类工作。
+<table style="border:0;">
+     <tr>
+     <td width = "60%" style="border:0;">
+          <div style="text-align: center;">
+               <img align="" width="60%" style="" src="{{ site.url }}/images/research/进展11.png" alt="...">
+          </div>
+     </td>
+     <td width = "40%" style="border:0;">
+          <div style="text-align: center;">
+               <video controls controlslist="nodownload" width="60%">
+                    <source src="{{ site.url }}/images/research/进展11.mp4" type="video/MP4">
+               </video>
+          </div>
+     </td>
+     </tr>
+</table>
+
