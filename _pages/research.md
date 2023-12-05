@@ -122,7 +122,7 @@ toc: true
                <img align="" width="60%" style="" src="{{ site.url }}/images/research/进展11.png" alt="...">
           </div>
      </td>
-     <td width = "40%" style="border:0;">
+     <td width = "60%" style="border:0;">
           <div style="text-align: center;">
                <video controls controlslist="nodownload" width="60%">
                     <source src="{{ site.url }}/images/research/进展11.mp4" type="video/MP4">
