@@ -122,22 +122,6 @@ toc: true
         </td>
         <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.3px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/赵康康.jpg" alt="...">
-                <br>赵康康
-            </div>
-        </td>
-        <td width="16%">
-            <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:9px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
-                    个人主页：<br>
-                    研究方向：<br>
-                    兴趣爱好：<br>
-                </p>
-            </div>
-        </td>
-        <td width="9%">
-            <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈飞扬.jpg" alt="...">
                 <br>陈飞扬
             </div>
