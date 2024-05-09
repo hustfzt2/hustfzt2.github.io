@@ -10,7 +10,8 @@ toc: true
 ## 1.论文
 （详情请见：[这里](https://scholar.google.com/citations?hl=zh-CN&user=rdyz9EMAAAAJ&view_op=list_works&sortby=pubdate)）
 ### 2024
-X. Lei, Z. Fu*, E. Spyrakos-Papastavridis, J. Pan, M. Li and X. Chen, IHUVS: Infinite Homography-Based Uncalibrated Methodology for Robotic Visual Servoing, IEEE Transactions on Industrial Electronics, 2024, 71(4): 3822-3831.<br>
+[1] 乐恒韬; 赵康康; 吴松林; 付中涛*; 陈绪兵; 基于LSTM网络的机器人异空间手眼标定方法, 武汉工程大学学报，2024.
+[2] X. Lei, Z. Fu*, E. Spyrakos-Papastavridis, J. Pan, M. Li and X. Chen, IHUVS: Infinite Homography-Based Uncalibrated Methodology for Robotic Visual Servoing, IEEE Transactions on Industrial Electronics, 2024, 71(4): 3822-3831.<br>
 
 ### 2023
 [1]	Lin Y, Wang T, Spyrakos-Papastavridis E, Z Fu, S Xu, J Dai. Minimum Friction Coefficient-based Precision Manipulation Workspace Analysis of the Three-fingered Metamorphic Hand. Journal of Mechanisms and Robotics, 2023:1-28.<br>
