@@ -22,11 +22,9 @@ toc: true
 
 ## 主要研究方向
 
-
-（1）机器人算法与技术<br>
+（1）机器人算法与技术在机器人制造领域的应用<br>
 （2）多模态感知与学习、技能学习<br>
 （3）李群李代数、微分流形<br>
-（4）机器人制造
 
 ## 主要合作单位
 [伦敦国王学院 Centre for Robotics Research (CORE) ](https://www.kcl.ac.uk/research/core) <br>
