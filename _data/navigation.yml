@@ -1,0 +1,35 @@
+# main links links
+main:
+  - title: "研究动态"
+    url: /research/
+    
+
+  - title: "学术成果"
+    url: /publication/
+ #    children:
+ #      - title: "Key Generation Publication"
+ #        url: /posts/2019/04/blog-post-keygen_liv_pub/
+
+  - title: "团队成员"
+    url: /people/
+
+  # - title: "Opportunities"
+  #   url: /opportunities/
+
+  - title: "科研项目"
+    url: /sci-research/
+
+  - title: "荣誉奖励"
+    url: /funding-and-awards/
+
+  - title: "学术活动"
+    url: /professional-activities/
+
+#  - title: "CV"
+#    url: /cv/
+
+  - title: "教学"
+    url: /teaching/
+
+ # - title: "Blog"
+ #   url: /archive-year/
